@@ -7,7 +7,7 @@ pipeline{
 			}
 		}
 		
-		stage ('Build){
+		stage ('Build'){
 			steps{
 				echo 'Hello world from Build'
 			}
